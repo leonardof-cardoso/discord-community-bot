@@ -1,0 +1,140 @@
+{
+  "1425160077475577982": {
+    "leaderRoleId": "1425162650819760148",
+    "conselheiroRoleId": "1425162650819760148",
+    "channelId": "1425484160964755478",
+    "logsChannelId": "1425497528803262486",
+    "logEdits": true,
+    "logDeletes": true,
+    "logVoice": true,
+    "eventsLogsChannelId": "1429981087949520906",
+    "transcriptsChannelId": "1425525228108513330",
+    "logMembers": true,
+    "membersLogsChannelId": "1425164284979052565",
+    "joinLogsOnly": true,
+    "joinLogsChannelId": "1429981586673107025",
+    "ticketPanel": {
+      "useSelect": true,
+      "title": "🔔 Atendimento Prioritário",
+      "description": "Escolha entre Bugs Urgentes, Revisões de Líderes ou Entrega de Keys VIPs.",
+      "banner": "https://media.discordapp.net/attachments/1354984419865395360/1355005248380338366/C13123amada_0.png?ex=68f79839&is=68f646b9&hm=8d78b91bc7412efb3f7ecc2196434e6c43be3425621f3ebc9b450a603b1d2ead&=&format=webp&quality=lossless&width=1867&height=462",
+      "footer": "Atendimento prioritário. Use de forma responsável.",
+      "categories": [
+        {
+          "id": "bugs_urgentes",
+          "label": "Bugs Urgentes",
+          "emoji": "⏱️",
+          "description": "Bugs críticos que exigem atenção imediata."
+        },
+        {
+          "id": "revisoes_lideres",
+          "label": "Revisões de Líderes",
+          "emoji": "🧭",
+          "description": "Revisão apenas para líderes banidos."
+        },
+        {
+          "id": "keys_vips",
+          "label": "Entrega de Keys VIPs",
+          "emoji": "🔑",
+          "description": "Solicitação de keys VIPs - Apenas para líderes."
+        }
+      ],
+      "categoryPerms": {},
+      "messageId": "1433513452445634631"
+    }
+  },
+  "1333610890876030976": {
+    "joinLogsOnly": true,
+    "joinLogsChannelId": "1346163112847605780",
+    "autoRoleId": "1333610890876030985",
+    "transcriptsChannelId": "1372722571027550248",
+    "eventsLogsChannelId": "1369028625181048853",
+    "logEdits": true,
+    "logDeletes": true,
+    "logVoice": false,
+    "factionConfirmChannelId": "1430922121164619816",
+    "reactionLockAllChannels": [
+      "1430922121164619816"
+    ],
+    "ticketPanel": {
+      "useSelect": true,
+      "title": "🔔 Atendimento — Central de Suporte",
+      "description": "Precisa de ajuda? Selecione a categoria que melhor descreve sua solicitação. Nossa equipe responderá o quanto antes.",
+      "banner": "https://media.discordapp.net/attachments/1354984419865395360/1355005248380338366/C13123amada_0.png?ex=68f79839&is=68f646b9&hm=8d78b91bc7412efb3f7ecc2196434e6c43be3425621f3ebc9b450a603b1d2ead&=&format=webp&quality=lossless&width=1867&height=462",
+      "footer": "Leia as regras antes de abrir um ticket. Evite spam.",
+      "categories": [
+        {
+          "id": "denuncias",
+          "label": "Denúncias",
+          "emoji": "🚨",
+          "description": "Denuncie jogadores com evidências."
+        },
+        {
+          "id": "bugs",
+          "label": "Bugs",
+          "emoji": "⚠️",
+          "description": "Reporte bugs gerais do servidor."
+        },
+        {
+          "id": "appeal",
+          "label": "Appeal",
+          "emoji": "📩",
+          "description": "Solicite revisão de punição."
+        },
+        {
+          "id": "ouvidoria",
+          "label": "Ouvidoria",
+          "emoji": "💡",
+          "description": "Relate conduta de membros da equipe."
+        },
+        {
+          "id": "compras",
+          "label": "Compras",
+          "emoji": "🛒",
+          "description": "Suporte para pagamentos e itens."
+        },
+        {
+          "id": "duvidas",
+          "label": "Dúvidas Gerais",
+          "emoji": "❓",
+          "description": "Questões rápidas e orientações."
+        },
+        {
+          "id": "confirma_faccao",
+          "label": "Confirma a sua facção",
+          "emoji": "🏆",
+          "description": "Confirme a participação da sua facção no evento."
+        }
+      ],
+      "categoryPerms": {
+        "bugs": {
+          "roles": [],
+          "minRoleId": "1333610890926493725"
+        },
+        "duvidas": {
+          "roles": [],
+          "minRoleId": "1333610890926493721"
+        },
+        "ouvidoria": {
+          "roles": [],
+          "minRoleId": "1333610890926493723"
+        }
+      },
+      "messageId": "1441127348773851268"
+    },
+    "inactivity": {
+      "enabled": false,
+      "timeoutHours": 10,
+      "warningHours": 2
+    }
+  },
+  "1421180596901908533": {
+    "statusPanel": {
+      "channelId": "1431431999368986625",
+      "messageId": "1433455545515511830",
+      "intervalSec": 15
+    },
+    "appealReviewGuildId": "1421180596901908533",
+    "appealReviewChannelId": "1439839292447916092"
+  }
+}
